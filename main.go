@@ -1,9 +1,3 @@
-/*
-Juan Taruc
-This program creates a cookie that tracks the number
-of times a user visited the webpage.
-*/
-
 package main
 
 import (
